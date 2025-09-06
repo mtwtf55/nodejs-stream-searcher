@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-readline-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js --input=./mockFiles/input.txt --output=./mockFiles/output.txt --find=мир"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
